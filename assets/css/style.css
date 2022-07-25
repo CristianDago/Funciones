@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+.box {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+
+}
+
+
+#box1 {
+width: 200px; 
+height: 200px;
+background-color: purple;	
+
+}
+
+#box2 {
+width: 200px; 
+height: 200px; 
+background-color: red;
+}
+
+#box3 {
+width: 200px; 
+height: 200px; 
+background-color: orange;
+}
+
+
+#box4 {
+width: 200px; 
+height: 200px; 
+background-color: yellow;
+}
